@@ -1,0 +1,17 @@
+venv/
+.venv/
+env/
+
+# Fichiers Python Compilés et Cache 
+# Fichiers inutiles générés par Python
+__pycache__/
+*.pyc
+
+# Fichiers de l'Éditeur (VS Code) 
+# Ignore les réglages locaux de votre éditeur
+.vscode/
+
+# Fichiers créés par les systèmes d'exploitation
+.DS_Store
+Thumbs.db
+desktop.ini
